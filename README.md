@@ -7,4 +7,5 @@ A rotation invariant novel method for no-contact automatic measurement of screw 
 ## Result
 <img align="left" src="/Results/M10x70_No_HeadFlowchart.jpg" alt="Input" width="200"/>
 
-### *Pitch = 1.54 mm*
+### *Estimated Pitch = 1.54 mm*
+### *Actual Pitch = 1.50 mm*
