@@ -1,6 +1,6 @@
 # Automated_Pitch_Measurement
 
-A rotation invariant novel method for no-contact automatic measurement of screw pitch has been developed.
+A novel method has been developed for no-contact automatic measurement of screw pitch. It is also rotation invariant
 
 ## Further details and source code will be updated after publication.
 
